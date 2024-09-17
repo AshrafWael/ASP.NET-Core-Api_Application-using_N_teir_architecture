@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.deps.json
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.runtimeconfig.json
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.pdb
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\refint\HospitalManagmentSystem.DAL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.pdb
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\HospitalManagmentSystem.DAL.genruntimeconfig.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.DAL\obj\Debug\net8.0\ref\HospitalManagmentSystem.DAL.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:43:01.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\Post.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\Post.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\Post.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:34:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:22:13.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalApiController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:21:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Program.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:11:12.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

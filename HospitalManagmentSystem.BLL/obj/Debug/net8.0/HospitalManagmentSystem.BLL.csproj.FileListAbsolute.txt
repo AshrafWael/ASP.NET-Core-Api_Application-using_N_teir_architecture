@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\bin\Debug\net8.0\HospitalManagmentSystem.BLL.deps.json
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\bin\Debug\net8.0\HospitalManagmentSystem.BLL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\bin\Debug\net8.0\HospitalManagmentSystem.BLL.pdb
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\bin\Debug\net8.0\HospitalManagmentSystem.DAL.pdb
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\Hospital.55F51BAB.Up2Date
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\refint\HospitalManagmentSystem.BLL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.pdb
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\ref\HospitalManagmentSystem.BLL.dll
