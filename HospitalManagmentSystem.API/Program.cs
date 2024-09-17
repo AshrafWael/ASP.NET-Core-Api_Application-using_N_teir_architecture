@@ -1,4 +1,5 @@
 
+using HospitalManagmentSystem.API.Middleware;
 using HospitalManagmentSystem.BLL.AutoMapper;
 using HospitalManagmentSystem.BLL.Manager;
 using HospitalManagmentSystem.BLL.Manager.Accounts;
@@ -81,10 +82,13 @@ namespace HospitalManagmentSystem.API
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
+            app.UseHttpsRedirection(); 
+
+            app.UseMiddleware<LoggingMiddelware>(); 
+            app.UseMiddleware<Request_Modification_Middelware>();
+
             app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 

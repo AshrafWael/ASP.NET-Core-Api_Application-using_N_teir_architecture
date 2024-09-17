@@ -142,3 +142,4 @@ C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.API\o
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.API\obj\Debug\net8.0\HospitalManagmentSystem.API.genruntimeconfig.cache
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.API\obj\Debug\net8.0\ref\HospitalManagmentSystem.API.dll
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.API\obj\Debug\net8.0\HospitalManagmentSystem.API.sourcelink.json

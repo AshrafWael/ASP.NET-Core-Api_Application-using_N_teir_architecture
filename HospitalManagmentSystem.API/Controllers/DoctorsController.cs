@@ -1,4 +1,5 @@
-﻿using HospitalManagmentSystem.BLL.Dtos;
+﻿using HospitalManagmentSystem.API.Filters;
+using HospitalManagmentSystem.BLL.Dtos;
 using HospitalManagmentSystem.BLL.Manager;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -11,7 +12,6 @@ namespace HospitalManagmentSystem.API.Controllers
     public class DoctorsController : ControllerBase
     {
         private readonly IDoctorManager _doctorManager;
-
         public DoctorsController(IDoctorManager doctorManager) 
         {
           _doctorManager = doctorManager;
@@ -37,8 +37,10 @@ namespace HospitalManagmentSystem.API.Controllers
         }
         [HttpPut]
         [Route("Id")]
+        [ValidateSalary] //Action Filter
         public ActionResult Update(int Id,DoctorUpdateDto DoctorDto)
         {
+            //======>onActionExcuting
             if (Id != DoctorDto.Id)
             {
                 return BadRequest();
@@ -48,6 +50,7 @@ namespace HospitalManagmentSystem.API.Controllers
                 _doctorManager.Update(DoctorDto);
                 return NoContent();
             }
+            //======>onActionExcuted
         }
         [HttpDelete]
         [Route("Id")]
