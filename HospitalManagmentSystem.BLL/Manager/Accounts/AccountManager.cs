@@ -34,7 +34,8 @@ namespace HospitalManagmentSystem.BLL.Manager.Accounts
             }
             else
             {
-               var result = await _userManager.CheckPasswordAsync(user,LoginDto.Password);
+               var result = await _userManager
+                    .CheckPasswordAsync(user,LoginDto.Password);
                 if (result == true) 
                 {
                     //genrate Token
@@ -52,23 +53,23 @@ namespace HospitalManagmentSystem.BLL.Manager.Accounts
             //mapping form dto to appuser
             user.Email = registerDto.Email;
             user.UserName = registerDto.UserName;
-            user.Address = "Cairo";
+           // user.Address = "Cairo"; //should noot be her
             //send user and pss
-           IdentityResult result = await _userManager.CreateAsync(user,registerDto.Password); //save over Db
+           IdentityResult result = await _userManager
+                .CreateAsync(user,registerDto.Password); //save over Db
             if (result.Succeeded == false)
             {
                 return null;
             }
-                //create cakims on db
+
                 List<Claim> claims = new List<Claim>();
+                claims.Add(new Claim("Email",registerDto.Email));
                 claims.Add(new Claim(ClaimTypes.NameIdentifier, user.Id));
                 claims.Add(new Claim("Name", registerDto.UserName));
                 claims.Add(new Claim(ClaimTypes.Role, "Admin"));
-                //add claims on db
-
                 await _userManager.AddClaimsAsync(user, claims);
                 genralResponse =GenrateToken(claims);
-            return genralResponse;
+                return genralResponse;
         }
             private GenralResponse GenrateToken(IList<Claim> claims)
             {
@@ -78,10 +79,13 @@ namespace HospitalManagmentSystem.BLL.Manager.Accounts
                 var SecretKeyByte = Encoding.ASCII.GetBytes(SecretKeyString);
                 SecurityKey securityKey = new SymmetricSecurityKey(SecretKeyByte);
                 //Genrate Signning Credintial comain secret key with Hashing Algorithm
-                SigningCredentials signingCredentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+                SigningCredentials signingCredentials = new 
+                SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
                 // Genrate JwtSecurityToken
                 var ExpireDate = DateTime.Now.AddDays(3);
-                JwtSecurityToken jwtSecurity = new JwtSecurityToken(
+                JwtSecurityToken jwtSecurity = 
+                new JwtSecurityToken(
+
                     claims: claims,
                     signingCredentials: signingCredentials,
                     expires: ExpireDate
@@ -93,7 +97,6 @@ namespace HospitalManagmentSystem.BLL.Manager.Accounts
                 { 
                      Token = token,
                     ExpirationDate = ExpireDate
-                
                 };
             }
     }

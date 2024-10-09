@@ -10,6 +10,7 @@ namespace HospitalManagmentSystem.BLL.Dtos.AccountDtos
     public class AccountRegisterDto
     {
         public string UserName { get; set; }
+
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
         [DataType(DataType.Password)]

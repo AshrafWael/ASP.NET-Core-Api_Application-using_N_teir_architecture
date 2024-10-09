@@ -13,3 +13,4 @@ C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\o
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\refint\HospitalManagmentSystem.BLL.dll
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.pdb
 C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\ref\HospitalManagmentSystem.BLL.dll
+C:\Users\User\source\repos\HospitalManagmentSystem\HospitalManagmentSystem.BLL\obj\Debug\net8.0\HospitalManagmentSystem.BLL.sourcelink.json

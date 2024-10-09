@@ -114,7 +114,7 @@ namespace HospitalManagmentSystem.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Doctors");
+                    b.ToTable("Doctors", (string)null);
                 });
 
             modelBuilder.Entity("HospitalManagmentSystem.DAL.Data.Models.Issue", b =>
@@ -135,7 +135,7 @@ namespace HospitalManagmentSystem.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Issues");
+                    b.ToTable("Issues", (string)null);
                 });
 
             modelBuilder.Entity("HospitalManagmentSystem.DAL.Data.Models.Patient", b =>
@@ -160,7 +160,7 @@ namespace HospitalManagmentSystem.DAL.Migrations
 
                     b.HasIndex("DoctorId");
 
-                    b.ToTable("Patients");
+                    b.ToTable("Patients", (string)null);
                 });
 
             modelBuilder.Entity("IssuePatient", b =>
@@ -175,7 +175,7 @@ namespace HospitalManagmentSystem.DAL.Migrations
 
                     b.HasIndex("PatientsId");
 
-                    b.ToTable("IssuePatient");
+                    b.ToTable("IssuePatient", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

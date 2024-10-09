@@ -38,7 +38,10 @@ namespace HospitalManagmentSystem.API
             builder.Services.AddScoped<IDoctorManager,DoctorManager>();
             //builder.Services.AddAutoMapper(map => map.AddProfile(new MappingProfile()));
             // builder.Services.AddScoped<IDoctorManager, DoctorAutoMapperManger>();
-            
+            builder.Services.AddDbContext<HospitalSystemContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Cs"));
+            });
             builder.Services.AddIdentity<ApplicationUser, Microsoft.AspNetCore.Identity.IdentityRole>(Options =>
             {
                 Options.Password.RequireNonAlphanumeric = false;
@@ -60,7 +63,8 @@ namespace HospitalManagmentSystem.API
                   var SecretKeyString = builder.Configuration.GetValue<string>("SecretKey");
                   var SecretKeyByte = Encoding.ASCII.GetBytes(SecretKeyString);
                   SecurityKey securityKey = new SymmetricSecurityKey(SecretKeyByte);
-                  Options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+                  Options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens
+                  .TokenValidationParameters()
                   {
                       IssuerSigningKey = securityKey,
                       ValidateIssuer = false, // who Resive token
@@ -68,10 +72,7 @@ namespace HospitalManagmentSystem.API
                   };
               });
 
-            builder.Services.AddDbContext<HospitalSystemContext>(options =>
-              {
-                 options.UseSqlServer(builder.Configuration.GetConnectionString("Cs"));
-              });
+           
             #endregion
             var app = builder.Build();
 

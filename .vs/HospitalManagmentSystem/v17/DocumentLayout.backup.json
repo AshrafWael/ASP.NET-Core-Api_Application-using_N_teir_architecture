@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\manager\\doctorautomappermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\manager\\doctorautomappermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.dal\\reposatories\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|solutionrelative:hospitalmanagmentsystem.dal\\reposatories\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E551A2-5232-4991-8B24-2562FFAB5B0D}|HospitalManagmentSystem.API\\HospitalManagmentSystem.API.csproj|solutionrelative:hospitalmanagmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\doctoradddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\manager\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\manager\\doctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\patientadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\patientadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\issueupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\issueupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\issuereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\issuereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\dtos\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\dtos\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\manager\\idoctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\manager\\idoctormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.dal\\data\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|solutionrelative:hospitalmanagmentsystem.dal\\data\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.dal\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|solutionrelative:hospitalmanagmentsystem.dal\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.dal\\data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0D6E4D-9986-4763-BB7C-13A886756E68}|HospitalManagmentSystem.DAL\\HospitalManagmentSystem.DAL.csproj|solutionrelative:hospitalmanagmentsystem.dal\\data\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|c:\\users\\user\\source\\repos\\hospitalmanagmentsystem\\hospitalmanagmentsystem.bll\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9889CD-5F35-448B-9943-7B107C4C14DD}|HospitalManagmentSystem.BLL\\HospitalManagmentSystem.BLL.csproj|solutionrelative:hospitalmanagmentsystem.bll\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +74,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T22:43:01.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\Post.cs",
-              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\Post.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\Post.cs",
-              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T15:34:54.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T15:22:13.151Z",
+              "WhenOpened": "2024-10-03T17:21:56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExternalApiController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
-              "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
-              "RelativeToolTip": "HospitalManagmentSystem.API\\Controllers\\ExternalApiController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Reposatories\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.DAL\\Reposatories\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Reposatories\\DoctorRepo.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.DAL\\Reposatories\\DoctorRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T15:21:59.045Z",
+              "WhenOpened": "2024-10-03T16:13:18.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Program.cs",
               "RelativeDocumentMoniker": "HospitalManagmentSystem.API\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.API\\Program.cs",
               "RelativeToolTip": "HospitalManagmentSystem.API\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAApwB4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:11:12.02Z",
+              "WhenOpened": "2024-10-03T15:59:18.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorAutoMapperManger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\DoctorAutoMapperManger.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Manager\\DoctorAutoMapperManger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\DoctorAutoMapperManger.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Manager\\DoctorAutoMapperManger.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:06:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\DoctorManager.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Manager\\DoctorManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\DoctorManager.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Manager\\DoctorManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowCAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:49:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\PatientAddDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\PatientAddDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\PatientAddDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\PatientAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:57:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IssueUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\IssueUpdateDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\IssueUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\IssueUpdateDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\IssueUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:56:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssueReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\IssueReadDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\IssueReadDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\IssueReadDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\IssueReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:56:57.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.DAL\\Data\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Issue.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.DAL\\Data\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:56:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\DoctorUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:52:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\DoctorAddDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:52:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.DAL\\Data\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:56:40.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.DAL\\Data\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:14:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:52:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Dtos\\DoctorReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:52:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDoctorManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\IDoctorManager.cs",
+              "RelativeDocumentMoniker": "HospitalManagmentSystem.BLL\\Manager\\IDoctorManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HospitalManagmentSystem\\HospitalManagmentSystem.BLL\\Manager\\IDoctorManager.cs",
+              "RelativeToolTip": "HospitalManagmentSystem.BLL\\Manager\\IDoctorManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:49:07.174Z",
               "EditorCaption": ""
             }
           ]

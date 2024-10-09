@@ -17,7 +17,7 @@ namespace HospitalManagmentSystem.API.Controllers
           _doctorManager = doctorManager;
         }
 
-       // [Authorize]
+        [Authorize]
         [HttpGet]
         public ActionResult<IEnumerable<DoctorReadDto>> GetAll() 
         {
