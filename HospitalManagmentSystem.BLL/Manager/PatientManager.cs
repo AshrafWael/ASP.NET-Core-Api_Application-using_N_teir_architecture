@@ -1,4 +1,6 @@
-﻿using HospitalManagmentSystem.BLL.Dtos;
+﻿using AutoMapper;
+using HospitalManagmentSystem.BLL.Dtos;
+using HospitalManagmentSystem.DAL.Data.Models;
 using HospitalManagmentSystem.DAL.Reposatories;
 using System;
 using System.Collections.Generic;
@@ -11,40 +13,48 @@ namespace HospitalManagmentSystem.BLL.Manager
     public class PatientManager : IPatientManager
     {
         private readonly IPatiebtRepo _patiebtRepo;
+        private readonly IMapper _mapper;
 
-        public PatientManager(IPatiebtRepo patiebtRepo)
+        public PatientManager(IPatiebtRepo patiebtRepo,IMapper mapper )
         {
             _patiebtRepo = patiebtRepo;
+           _mapper = mapper;
         }
 
         public void Add(PatientAddDto patientAddDto)
         {
-
+            _patiebtRepo.Add(_mapper.Map<Patient>(patientAddDto));
+            _patiebtRepo.SaveChanges();
         }
 
         public void Delete(int Id)
         {
-            throw new NotImplementedException();
+            var Patient = _patiebtRepo.GetById(Id);
+            _patiebtRepo.Delete(Patient);
+            _patiebtRepo.SaveChanges();
         }
 
         public IEnumerable<PatientReadDto> GetAll()
         {
-            throw new NotImplementedException();
+            return _mapper.Map<List<PatientReadDto>>(_patiebtRepo.GetAll());
+           
         }
 
         public PatientReadDto GetById(int id)
         {
-            throw new NotImplementedException();
+            return _mapper.Map<PatientReadDto>(_patiebtRepo.GetById(id));
         }
 
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _patiebtRepo.SaveChanges();
         }
 
         public void Update(PatientUpdateDto patientUpdateDto)
         {
-            throw new NotImplementedException();
+            var patientModel = _patiebtRepo.GetById(patientUpdateDto.Id);
+            _mapper.Map<PatientUpdateDto>(patientModel);
+            _patiebtRepo.SaveChanges();
         }
     }
 }
