@@ -17,6 +17,13 @@ namespace HospitalManagmentSystem.BLL.AutoMapper
             CreateMap<Doctor, DoctorReadDto>().ReverseMap();
             CreateMap<Doctor, DoctorAddDto>().ReverseMap() ;
             CreateMap<Doctor, DoctorUpdateDto>().ReverseMap();
+
+            CreateMap<Patient, PatientReadDto>().ReverseMap();
+            CreateMap<Patient, PatientAddDto>().ReverseMap();
+            CreateMap<Patient, PatientUpdateDto>().ReverseMap();
+            CreateMap<Issue, IssueReadDto>().ReverseMap();
+            CreateMap<Issue, IssueUpdateDto>().ReverseMap();
+        
         }
     }
 }
